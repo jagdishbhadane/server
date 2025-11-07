@@ -1,0 +1,2 @@
+# server
+codepush only backend
