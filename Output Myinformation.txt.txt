@@ -1,0 +1,20 @@
+My information
+Enter the name:
+jagdish
+name:=jagdish
+Enter the Degree:
+MCA II
+name:=MCA
+Enter the College name:
+name:=II
+Enter the age:
+22
+Age:=22
+Enter the percentage:
+86.20
+%:=86.2
+Enter the grade :
+name:=a
+Enter the passout year:
+2026
+name:=2026
