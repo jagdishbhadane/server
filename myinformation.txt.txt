@@ -28,9 +28,12 @@ public class Myinformation {
 	    System.out.println("Enter the passout year:");
 	    int passout=sc.nextInt();
 	    System.out.println("name:="+passout);
+ 
+        
 	    
 		
 		
 	}
 
 }
+
