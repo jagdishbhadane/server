@@ -1,0 +1,36 @@
+package basic;
+
+import java.util.Scanner;
+
+public class Myinformation {
+
+	public static void main(String[] args) {
+		System.out.println("My information");
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter the name:");
+	    String nm=sc.next();
+	    System.out.println("name:="+nm);
+	    System.out.println("Enter the Degree:");
+	    String degree=sc.next();
+	    System.out.println("name:="+degree);
+	    System.out.println("Enter the College name:");
+	    String college=sc.next();
+	    System.out.println("name:="+college);
+	    System.out.println("Enter the age:");
+	    int age=sc.nextInt();
+	    System.out.println("Age:="+age);
+	    System.out.println("Enter the percentage:");
+	    float per=sc.nextFloat();
+	    System.out.println("%:="+per);
+	    System.out.println("Enter the grade :");
+	    char g='a';
+	    System.out.println("name:="+g);
+	    System.out.println("Enter the passout year:");
+	    int passout=sc.nextInt();
+	    System.out.println("name:="+passout);
+	    
+		
+		
+	}
+
+}
